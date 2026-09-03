@@ -9,7 +9,7 @@ Software Engineering Student at NSTU | Aspiring Software Engineer from Banglades
 </h3>
 
 <p align="center">
-  <img src="C:\Users\Md Johirul\Downloads\README.jpeg" />
+  <img src="https://komarev.com/ghpvc/?username=johirmia&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -62,8 +62,3 @@ Software Engineering Student at NSTU | Aspiring Software Engineer from Banglades
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johirmia&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-<h3 align="center">🚀 Learning • Building • Growing</h3>
-
-<h4 align="center">Code. Learn. Build. Repeat.</h4>
