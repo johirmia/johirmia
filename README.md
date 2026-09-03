@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋, I'm Johir Mia</h1>
-
-<h3 align="center">Software Engineering Student at NSTU | Aspiring Software Engineer from Bangladesh 🇧🇩</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=johirmia&label=Profile%20Views&color=0e75b6&style=flat" alt="johirmia" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
