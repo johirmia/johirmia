@@ -1,7 +1,7 @@
-<h1 align="center">Hi👋,I'm Johir Mia</h1>
+<p style="background-color:black"><h1 align="center">Hi👋,I'm Johir Mia</h1>
 <h3 align="center">Software Engineering Student at NSTU and aspiring Software Engineer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johirmia&label=Profile%20views&color=0e75b6&style=flat" alt="johirmia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=johirmia&label=Profile%20views&color=0e75b6&style=flat" alt="johirmia" /> </p></p>
 
 - 🔭 I’m currently working on **Web Development Projects**
 
