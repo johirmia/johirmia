@@ -9,7 +9,7 @@ Software Engineering Student at NSTU | Aspiring Software Engineer from Banglades
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=johirmia&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="C:\Users\Md Johirul\Downloads\README.jpeg" />
 </p>
 
 ---
